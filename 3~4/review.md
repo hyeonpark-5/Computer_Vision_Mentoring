@@ -6,7 +6,7 @@ RGB, BGR, HSV
 - PIL (RGB)
 ---
 **BGR**   
--BLue, Green,Red
+- BLue, Green,Red
 
 -  OpenCV (BGR)   
 if you want to change BGR->RGB in OpenCV
