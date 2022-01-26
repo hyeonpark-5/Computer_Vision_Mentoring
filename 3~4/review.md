@@ -14,5 +14,5 @@ if you want to change BGR->RGB in OpenCV
 new_image=cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 <code/>
 </pre>
-
+* * *
 
