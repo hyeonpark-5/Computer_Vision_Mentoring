@@ -7,7 +7,7 @@ RGB, BGR, HSV
 ---
 **BGR**
 
--use OpenCV   
+-  OpenCV (BGR)   
 BGR->RGB
 <pre>
  <code>
