@@ -10,9 +10,9 @@ RGB, BGR, HSV
 -  OpenCV (BGR)   
 if you want to change BGR->RGB in OpenCV
 <pre>
- <code>
+<code>
 new_image=cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
- <code/>
+<code/>
 </pre>
 
 
