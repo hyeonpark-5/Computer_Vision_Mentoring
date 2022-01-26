@@ -10,9 +10,9 @@ RGB, BGR, HSV
 ---
 
 **HSV**   
-Hue(color, 색상) [0~179]   
-Saturation(chroma, 채도) [0~255]    
-Value (brightness, 명도) [0~255]   
+Hue(color, 색상) (0~179)      
+Saturation(chroma, 채도) (0~255)       
+Value (brightness, 명도) (0~255)      
 
 - Color, saturation, and brightness can all be known in one model.   
  하나의 모델에서 색과 채도, 명도를 모두 알 수 있다. 
