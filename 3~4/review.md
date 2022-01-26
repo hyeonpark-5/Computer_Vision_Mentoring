@@ -16,6 +16,6 @@ new_image=cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 </pre>   
 ---
 **HSV**
-- Hue(color, 색상, range: 0~ 179)   
-- Saturation(채도, range: 0 ~ 255)   
-- Value(brightness, 명도, range: 0 ~ 255)    
+- Hue (color, 색상, range: 0~ 179)   
+- Saturation (채도, range: 0 ~ 255)   
+- Value (brightness, 명도, range: 0 ~ 255)    
