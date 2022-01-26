@@ -15,9 +15,9 @@ if you want to change BGR->RGB in OpenCV
 new_image=cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
  <code/>
 </pre>
----
 
-**HSV**   
+---
+**HSV**
 
 Hue (color, 색상) , range = 0 ~ 179.       
 saturation (chroma, 채도) , range = 0 ~ 255.               
