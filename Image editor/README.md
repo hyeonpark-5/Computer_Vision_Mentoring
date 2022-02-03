@@ -1,4 +1,4 @@
-# application instrument
+# application instruction
 ## How to operate it.
 1. You change the adress.
    ![a](https://user-images.githubusercontent.com/67797025/152318989-db0bf365-5d74-433d-95d9-816bf91d17a4.JPG)
