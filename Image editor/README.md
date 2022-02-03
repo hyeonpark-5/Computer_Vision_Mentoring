@@ -6,7 +6,7 @@
 2. run this program and copy and paste address 
 ![Google - Chrome 2022-02-03 18-53-27_1_1](https://user-images.githubusercontent.com/67797025/152320721-2cc0dcd4-bb25-4969-b5a3-06d8b6f12724.gif)
 3. save the image (please change the name image.jpg)   
-   Sometimes, when editing a picture in the editor, an error appears that the image has not been saved. In that case, please open the window again. Then it'll be solved.
+   Sometimes, when editing a picture in the editor, an error appears that the image has not been saved. In that case, please open the new window again. Then it'll be solved.
    
    ![HOMEPAGE - Chrome 2022-02-03 19-47-45_1_1](https://user-images.githubusercontent.com/67797025/152328695-b87f9a24-6b50-4cdd-8fd7-a7dc8e11a927.gif)
 
