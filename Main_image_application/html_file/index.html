@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}HOMEPAGE{% endblock %}
+{% block content %}
+<form method=post enctype=multipart/form-data>
+    <p><input type="file" name="file">
+    <p><input type="submit" value="submit" /></p>
+    <h3>If you save the image please click editor</h3>
+    <h5>Canny editor</h5>
+    <p><a href = "{{url_for('value')}}">Canny editor</a> </p>
+    <h5>Crop, Flip, Rotate editor</h5>
+    <p><a href = "{{url_for('crop')}}">Crop editor</a> </p>
+    <p><a href = "{{url_for('flip')}}">Flip editor</a> </p>
+    <p><a href = "{{url_for('rotate')}}">Rotate editor</a> </p>
+    <h5>Draw editor</h5>
+    <p><a href = "{{url_for('rec')}}">Draw Rectangle editor</a> </p>
+    <p><a href = "{{url_for('fullrec')}}">Draw Rectangle filled with color editor</a> </p>
+    <p><a href = "{{url_for('text')}}">Draw text editor</a> </p>
+    <h5>Filter editor</h5>
+    <p><a href = "{{url_for('median')}}">median filter</a> </p>
+    <p><a href = "{{url_for('gaussian')}}">gaussian filter</a> </p>
+    <h5>Otsu editor</h5>
+    <p><a href = "{{url_for('otsu')}}">Otsu editor</a> </p>
+    <h5>RGB, HSV editor</h5>
+    <p><a href = "{{url_for('rgb')}}">RGB editor</a> </p>
+    <p><a href = "{{url_for('hsv')}}">HSV editor</a> </p>
+    <h5>Brightness editor</h5>
+    <p><a href = "{{url_for('brightness')}}">Brightness editor</a> </p>
+
+
+</form>
+{% endblock %}
