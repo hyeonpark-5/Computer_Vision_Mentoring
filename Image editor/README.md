@@ -1,8 +1,7 @@
 # application instruction
 ## How to operate it.
 1. You change the adress.
-   ![a](https://user-images.githubusercontent.com/67797025/152318989-db0bf365-5d74-433d-95d9-816bf91d17a4.JPG)
-   ![b](https://user-images.githubusercontent.com/67797025/152319134-33661ea5-44be-40a9-9d95-ebaf8aefdfc4.JPG)
+
 2. run this program and copy and paste address 
 ![Google - Chrome 2022-02-03 18-53-27_1_1](https://user-images.githubusercontent.com/67797025/152320721-2cc0dcd4-bb25-4969-b5a3-06d8b6f12724.gif)
 3. save the image (please change the name image.jpg)   
