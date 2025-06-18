@@ -7,14 +7,13 @@
    ![unzip](https://user-images.githubusercontent.com/67797025/152630247-fb9752ef-ddbf-441b-b545-4c2a9aeb32fb.JPG)
 3. Change the your directory UPLOAD_FOLDER and path variable.   
    - UPLOAD_FOLDER
-     ![new1](https://user-images.githubusercontent.com/67797025/152630312-820deaef-4dca-49e3-ba1b-769521d24bd0.JPG)
+
    - path
-     ![new2](https://user-images.githubusercontent.com/67797025/152630336-27141284-95dd-4141-8753-f6f1d9051655.JPG)
+
 4. Run main.py
-   ![runpython](https://user-images.githubusercontent.com/67797025/152630575-ed0e2d29-219e-400a-a493-043cdc75f96b.JPG)
+
 5. copy and paste address in the window
-   ![address1](https://user-images.githubusercontent.com/67797025/152630598-cc938f6e-932f-470d-9c96-932ead1dee7b.JPG)
-   ![address2](https://user-images.githubusercontent.com/67797025/152630609-11973fbf-1281-453f-86a6-a223f4494165.JPG)
+
 
 6. save the image (please change the name image.jpg)   
    - Sometimes, when editing a picture in the editor, an error appears that the image has not been saved. In that case, please open the new window again. Then it'll be solved.   
